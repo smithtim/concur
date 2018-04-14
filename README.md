@@ -1,3 +1,3 @@
 # README
 
-Text from branch1.
+Text from branch2.
